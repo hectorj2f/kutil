@@ -1430,7 +1430,7 @@
   version = "kubernetes-1.13.0"
 
 [[projects]]
-  digest = "1:a8a0fdd623b2a37c433d137bddfab6b155e988efbc7cd68c18f9923dce6c8742"
+  digest = "1:1f066ea11b5de714e38e130805dd9a87097ee6df06fd75e89fdf1087bd611419"
   name = "k8s.io/kube-openapi"
   packages = [
     "pkg/builder",
@@ -1440,7 +1440,7 @@
     "pkg/util/proto",
   ]
   pruneopts = "UT"
-  revision = "0cf8f7e6ed1d2e3d47d02e3b6e559369af24d803"
+  revision = "c59034cc13d587f5ef4e85ca0ade0c1866ae8e1d"
 
 [[projects]]
   digest = "1:210ad878affad50cc9634fcd93a1cb2e6b86a7b219984234075571f67a8bf0b1"
